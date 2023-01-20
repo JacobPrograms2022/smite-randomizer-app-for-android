@@ -1,2 +1,15 @@
 # smite-randomizer-app-for-android
-Randomizer for smite gods on android devices
+Randomize Smite Gods on android devices.
+
+This app is for android devices. Its purpose is allow users to randomize their character, also known as Gods, in the video game mmo, Smite.
+Current version supports randomization of all Smite 9.11 Gods.
+
+Road map
+-------
+
+Randomize by class.
+Randomize by lane.
+Randomize by Pantheon.
+Build Randomization.
+Smart Build Randomization using Damage, Defense and Hybrid options.
+God info page
