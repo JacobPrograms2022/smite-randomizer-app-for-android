@@ -13,3 +13,6 @@ Randomize by Pantheon.
 Build Randomization.
 Smart Build Randomization using Damage, Defense and Hybrid options.
 God info page
+
+
+MainActivity (Where the magic happens) is located in app/src/main/java/smite/smite_randomizer_3/
