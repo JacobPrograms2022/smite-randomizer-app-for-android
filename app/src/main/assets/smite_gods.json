@@ -1,0 +1,970 @@
+[
+	{
+		"name": "Achilles",
+		"pantheon": "Greek",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "achilles_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Agni",
+		"pantheon": "Hindu",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "agni_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Ah Muzen Cab",
+		"pantheon": "Maya",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "ah_muzen_cab_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Ah Puch",
+		"pantheon": "Maya",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "ah_puch_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Amaterasu",
+		"pantheon": "Japanese",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "amaterasu_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Anhur",
+		"pantheon": "Egyptian",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "anhur_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Anubis",
+		"pantheon": "Egyptian",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "anubis_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Ao Kuang",
+		"pantheon": "Chinese",
+		"role": "Mage",
+		"range": "Melee",
+		"img": "ao_kuang_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Aphrodite",
+		"pantheon": "Greek",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "aphrodite_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Apollo",
+		"pantheon": "Greek",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "apollo_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Arachne",
+		"pantheon": "Greek",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "arachne_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Ares",
+		"pantheon": "Greek",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "ares_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Artemis",
+		"pantheon": "Greek",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "artemis_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Artio",
+		"pantheon": "Celtic",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "artio_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Athena",
+		"pantheon": "Greek",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "athena_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Atlas",
+		"pantheon": "Greek",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "atlas_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Awilix",
+		"pantheon": "Maya",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "awilix_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Baba Yaga",
+		"pantheon": "Slavic",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "baba_yaga_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Bacchus",
+		"pantheon": "Roman",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "bacchus_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Bakasura",
+		"pantheon": "Hindu",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "bakasura_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Baron Samedi",
+		"pantheon": "Voodoo",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "baron_samedi_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Bastet",
+		"pantheon": "Egyptian",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "bastet_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Bellona",
+		"pantheon": "Roman",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "bellona_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Cabrakan",
+		"pantheon": "Maya",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "cabrakan_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Camazotz",
+		"pantheon": "Maya",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "camazotz_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Cerberus",
+		"pantheon": "Greek",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "cerberus_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Cernunnos",
+		"pantheon": "Celtic",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "cernunnos_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Chaac",
+		"pantheon": "Maya",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "chaac_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Chang'e",
+		"pantheon": "Chinese",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "change_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Charybdis",
+		"pantheon": "Greek",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "charybdis_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Chernobog",
+		"pantheon": "Slavic",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "chernobog_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Chiron",
+		"pantheon": "Greek",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "chiron_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Chronos",
+		"pantheon": "Greek",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "chronos_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Cliodhna",
+		"pantheon": "Celtic",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "cliodhna_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Cthulhu",
+		"pantheon": "Great Old Ones",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "cthulhu_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Cu Chulainn",
+		"pantheon": "Celtic",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "cu_chulainn_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Cupid",
+		"pantheon": "Roman",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "cupid_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Da Ji",
+		"pantheon": "Chinese",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "da_ji_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Danzaburou",
+		"pantheon": "Japanese",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "danzaburou_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Discordia",
+		"pantheon": "Roman",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "discordia_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Erlang Shen",
+		"pantheon": "Chinese",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "erlang_shen_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Eset",
+		"pantheon": "Egyptian",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "eset_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Fafnir",
+		"pantheon": "Norse",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "fafnir_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Fenrir",
+		"pantheon": "Norse",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "fenrir_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Freya",
+		"pantheon": "Norse",
+		"role": "Mage",
+		"range": "Melee",
+		"img": "freya_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Ganesha",
+		"pantheon": "Hindu",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "ganesha_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Geb",
+		"pantheon": "Egyptian",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "geb_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Gilgamesh",
+		"pantheon": "Babylonian",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "gilgamesh_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Guan Yu",
+		"pantheon": "Chinese",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "guan_yu_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Hachiman",
+		"pantheon": "Japanese",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "hachiman_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Hades",
+		"pantheon": "Greek",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "hades_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Heimdallr",
+		"pantheon": "Norse",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "heimdallr_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Hel",
+		"pantheon": "Norse",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "hel_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Hera",
+		"pantheon": "Greek",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "hera_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Hercules",
+		"pantheon": "Roman",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "hercules_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Horus",
+		"pantheon": "Egyptian",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "horus_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Hou Yi",
+		"pantheon": "Chinese",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "hou_yi_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Hun Batz",
+		"pantheon": "Maya",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "hun_batz_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Ishtar",
+		"pantheon": "Babylonian",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "ishtar_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Izanami",
+		"pantheon": "Japanese",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "izanami_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Janus",
+		"pantheon": "Roman",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "janus_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Jing Wei",
+		"pantheon": "Chinese",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "jing_wei_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Jormungandr",
+		"pantheon": "Norse",
+		"role": "Guardian",
+		"range": "Ranged",
+		"img": "jormungandr_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Kali",
+		"pantheon": "Hindu",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "kali_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Khepri",
+		"pantheon": "Egyptian",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "khepri_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "King Arthur",
+		"pantheon": "Arthurian",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "king_arthur_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Kukulkan",
+		"pantheon": "Maya",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "kukulkan_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Kumbhakarna",
+		"pantheon": "Hindu",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "kumbhakarna_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Kuzenbo",
+		"pantheon": "Japanese",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "kuzenbo_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Lancelot",
+		"pantheon": "Arthurian",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "lancelot_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Loki",
+		"pantheon": "Norse",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "loki_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Medusa",
+		"pantheon": "Greek",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "medusa_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Mercury",
+		"pantheon": "Roman",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "mercury_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Merlin",
+		"pantheon": "Arthurian",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "merlin_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Morgan Le Fay",
+		"pantheon": "Arthurian",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "morgan_le_fay_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Mulan",
+		"pantheon": "Chinese",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "mulan_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Ne Zha",
+		"pantheon": "Chinese",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "ne_zha_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Neith",
+		"pantheon": "Egyptian",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "neith_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Nemesis",
+		"pantheon": "Greek",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "nemesis_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Nike",
+		"pantheon": "Greek",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "nike_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Nox",
+		"pantheon": "Roman",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "nox_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Nu Wa",
+		"pantheon": "Chinese",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "nu_wa_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Odin",
+		"pantheon": "Norse",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "odin_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Olorun",
+		"pantheon": "Yoruba",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "olorun_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Osiris",
+		"pantheon": "Egyptian",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "osiris_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Pele",
+		"pantheon": "Polynesian",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "pele_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Persephone",
+		"pantheon": "Greek",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "persephone_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Poseidon",
+		"pantheon": "Greek",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "poseidon_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Ra",
+		"pantheon": "Egyptian",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "ra_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Raijin",
+		"pantheon": "Japanese",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "raijin_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Rama",
+		"pantheon": "Hindu",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "rama_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Ratatoskr",
+		"pantheon": "Norse",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "ratatoskr_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Ravana",
+		"pantheon": "Hindu",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "ravana_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Scylla",
+		"pantheon": "Greek",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "scylla_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Serqet",
+		"pantheon": "Egyptian",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "serqet_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Set",
+		"pantheon": "Egyptian",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "set_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Shiva",
+		"pantheon": "Hindu",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "shiva_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Skadi",
+		"pantheon": "Norse",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "skadi_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Sobek",
+		"pantheon": "Egyptian",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "sobek_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Sol",
+		"pantheon": "Norse",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "sol_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Sun Wukong",
+		"pantheon": "Chinese",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "sun_wukong_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Susano",
+		"pantheon": "Japanese",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "susano_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Sylvanus",
+		"pantheon": "Roman",
+		"role": "Guardian",
+		"range": "Ranged",
+		"img": "sylvanus_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Terra",
+		"pantheon": "Roman",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "terra_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Thanatos",
+		"pantheon": "Greek",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "thanatos_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "The Morrigan",
+		"pantheon": "Celtic",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "the_morrigan_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Thor",
+		"pantheon": "Norse",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "thor_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Thoth",
+		"pantheon": "Egyptian",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "thoth_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Tiamat",
+		"pantheon": "Babylonian",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "tiamat_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Tsukuyomi",
+		"pantheon": "Japanese",
+		"role": "Assassin",
+		"range": "Melee",
+		"img": "tsukuyomi_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Tyr",
+		"pantheon": "Norse",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "tyr_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Ullr",
+		"pantheon": "Norse",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "ullr_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Vamana",
+		"pantheon": "Hindu",
+		"role": "Warrior",
+		"range": "Melee",
+		"img": "vamana_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Vulcan",
+		"pantheon": "Roman",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "vulcan_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Xbalanque",
+		"pantheon": "Maya",
+		"role": "Hunter",
+		"range": "Ranged",
+		"img": "xbalanque_resized",
+		"damage": "Physical"
+	},
+	{
+		"name": "Xing Tian",
+		"pantheon": "Chinese",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "xing_tian_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Yemoja",
+		"pantheon": "Yoruba",
+		"role": "Guardian",
+		"range": "Ranged",
+		"img": "yemoja_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Ymir",
+		"pantheon": "Norse",
+		"role": "Guardian",
+		"range": "Melee",
+		"img": "ymir_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Yu Huang",
+		"pantheon": "Chinese",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "yu_huang_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Zeus",
+		"pantheon": "Greek",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "zeus_resized",
+		"damage": "Magical"
+	},
+	{
+		"name": "Zhong Kui",
+		"pantheon": "Chinese",
+		"role": "Mage",
+		"range": "Ranged",
+		"img": "zhong_kui_resized",
+		"damage": "Magical"
+	}
+]

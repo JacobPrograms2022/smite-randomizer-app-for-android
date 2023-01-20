@@ -1,0 +1,21 @@
+Index: app/src/main/java/smite/smite_randomizer_3/MainActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/smite/smite_randomizer_3/MainActivity.kt b/app/src/main/java/smite/smite_randomizer_3/MainActivity.kt
+--- a/app/src/main/java/smite/smite_randomizer_3/MainActivity.kt	
++++ b/app/src/main/java/smite/smite_randomizer_3/MainActivity.kt	(date 1674134899377)
+@@ -26,11 +26,4 @@
+                 println(rand.toString())
+             })
+ }
+-    fun read_json(){
+-        var json: String? = null
+-
+-        try {
+-            
+-        }
+-    }
+ }
+\ No newline at end of file
