@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
         try {
             // opens json file
-            val inputStream: InputStream = assets.open("smite_gods.json")
+            val inputStream: InputStream = assets.open("smite_gods_2.json")
             // reads the json file
             json = inputStream.bufferedReader().use{it.readText()}
 
@@ -49,15 +49,13 @@ class MainActivity : AppCompatActivity() {
                     val godRole = arrayListOf<String>()
                     val godDamage = arrayListOf<String>()
                     val godRange = arrayListOf<String>()
-                    val godPantheon = arrayListOf<String>()
                     val godImg = arrayListOf<String>()
 
                     // arrays add their values from json file
                     godName.add(jsonObj.getString("name"))
-                    godRole.add(jsonObj.getString("role"))
-                    godDamage.add(jsonObj.getString("damage"))
-                    godRange.add(jsonObj.getString("range"))
-                    godPantheon.add(jsonObj.getString("pantheon"))
+                    godRole.add(jsonObj.getString("class"))
+                    godDamage.add(jsonObj.getString("power type"))
+                    godRange.add(jsonObj.getString("attack type"))
                     godImg.add(jsonObj.getString("img"))
 
                     // searches the drawable folder for file names matching that of the string_name
