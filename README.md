@@ -20,3 +20,4 @@ MainActivity (Where the magic happens) is located in app/src/main/java/smite/smi
 Latest Update:
   Maui, Martichoras and Surtr have been added to the randomizer.
   All data is now scraped directly from smite.com/gods/ and code for the scraper has been committed.
+  (smite_scraper.py)
