@@ -1,0 +1,877 @@
+[
+	{
+		"name": "Achilles",
+		"img": "achilles_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Agni",
+		"img": "agni_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Ah Muzen Cab",
+		"img": "ah_muzen_cab_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Ah Puch",
+		"img": "ah_puch_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Amaterasu",
+		"img": "amaterasu_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Anhur",
+		"img": "anhur_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Anubis",
+		"img": "anubis_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Ao Kuang",
+		"img": "ao_kuang_resized",
+		"class": "Mage",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Aphrodite",
+		"img": "aphrodite_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Apollo",
+		"img": "apollo_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Arachne",
+		"img": "arachne_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Ares",
+		"img": "ares_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Artemis",
+		"img": "artemis_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Artio",
+		"img": "artio_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Athena",
+		"img": "athena_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Atlas",
+		"img": "atlas_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Awilix",
+		"img": "awilix_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Baba Yaga",
+		"img": "baba_yaga_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Bacchus",
+		"img": "bacchus_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Bakasura",
+		"img": "bakasura_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Baron Samedi",
+		"img": "baron_samedi_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Bastet",
+		"img": "bastet_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Bellona",
+		"img": "bellona_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Cabrakan",
+		"img": "cabrakan_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Camazotz",
+		"img": "camazotz_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Cerberus",
+		"img": "cerberus_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Cernunnos",
+		"img": "cernunnos_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Chaac",
+		"img": "chaac_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Chang'e",
+		"img": "change_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Charybdis",
+		"img": "charybdis_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Chernobog",
+		"img": "chernobog_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Chiron",
+		"img": "chiron_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Chronos",
+		"img": "chronos_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Cliodhna",
+		"img": "cliodhna_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Cthulhu",
+		"img": "cthulhu_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Cu Chulainn",
+		"img": "cu_chulainn_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Cupid",
+		"img": "cupid_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Da Ji",
+		"img": "da_ji_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Danzaburou",
+		"img": "danzaburou_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Discordia",
+		"img": "discordia_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Erlang Shen",
+		"img": "erlang_shen_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Eset",
+		"img": "eset_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Fafnir",
+		"img": "fafnir_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Fenrir",
+		"img": "fenrir_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Freya",
+		"img": "freya_resized",
+		"class": "Mage",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Ganesha",
+		"img": "ganesha_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Geb",
+		"img": "geb_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Gilgamesh",
+		"img": "gilgamesh_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Guan Yu",
+		"img": "guan_yu_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Hachiman",
+		"img": "hachiman_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Hades",
+		"img": "hades_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "He Bo",
+		"img": "he_bo_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Heimdallr",
+		"img": "heimdallr_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Hel",
+		"img": "hel_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Hera",
+		"img": "hera_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Hercules",
+		"img": "hercules_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Horus",
+		"img": "horus_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Hou Yi",
+		"img": "hou_yi_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Hun Batz",
+		"img": "hun_batz_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Ishtar",
+		"img": "ishtar_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Izanami",
+		"img": "izanami_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Janus",
+		"img": "janus_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Jing Wei",
+		"img": "jing_wei_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Jormungandr",
+		"img": "jormungandr_resized",
+		"class": "Guardian",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Kali",
+		"img": "kali_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Khepri",
+		"img": "khepri_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "King Arthur",
+		"img": "king_arthur_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Kukulkan",
+		"img": "kukulkan_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Kumbhakarna",
+		"img": "kumbhakarna_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Kuzenbo",
+		"img": "kuzenbo_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Lancelot",
+		"img": "lancelot_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Loki",
+		"img": "loki_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Maui",
+		"img": "maui_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Medusa",
+		"img": "medusa_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Mercury",
+		"img": "mercury_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Merlin",
+		"img": "merlin_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Morgan Le Fay",
+		"img": "morgan_le_fay_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Mulan",
+		"img": "mulan_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Ne Zha",
+		"img": "ne_zha_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Neith",
+		"img": "neith_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Nemesis",
+		"img": "nemesis_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Nike",
+		"img": "nike_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Nox",
+		"img": "nox_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Nu Wa",
+		"img": "nu_wa_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Odin",
+		"img": "odin_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Olorun",
+		"img": "olorun_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Osiris",
+		"img": "osiris_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Pele",
+		"img": "pele_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Persephone",
+		"img": "persephone_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Poseidon",
+		"img": "poseidon_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Ra",
+		"img": "ra_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Raijin",
+		"img": "raijin_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Rama",
+		"img": "rama_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Ratatoskr",
+		"img": "ratatoskr_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Ravana",
+		"img": "ravana_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Scylla",
+		"img": "scylla_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Serqet",
+		"img": "serqet_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Set",
+		"img": "set_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Shiva",
+		"img": "shiva_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Skadi",
+		"img": "skadi_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Sobek",
+		"img": "sobek_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Sol",
+		"img": "sol_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Sun Wukong",
+		"img": "sun_wukong_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Surtr",
+		"img": "surtr_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Susano",
+		"img": "susano_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Sylvanus",
+		"img": "sylvanus_resized",
+		"class": "Guardian",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Terra",
+		"img": "terra_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Thanatos",
+		"img": "thanatos_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "The Morrigan",
+		"img": "the_morrigan_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Thor",
+		"img": "thor_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Thoth",
+		"img": "thoth_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Tiamat",
+		"img": "tiamat_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Tsukuyomi",
+		"img": "tsukuyomi_resized",
+		"class": "Assassin",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Tyr",
+		"img": "tyr_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Ullr",
+		"img": "ullr_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Vamana",
+		"img": "vamana_resized",
+		"class": "Warrior",
+		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Vulcan",
+		"img": "vulcan_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Xbalanque",
+		"img": "xbalanque_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	},
+	{
+		"name": "Xing Tian",
+		"img": "xing_tian_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Yemoja",
+		"img": "yemoja_resized",
+		"class": "Guardian",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Ymir",
+		"img": "ymir_resized",
+		"class": "Guardian",
+		"attack type": "Melee",
+		"power type": "Magical"
+	},
+	{
+		"name": "Yu Huang",
+		"img": "yu_huang_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Zeus",
+		"img": "zeus_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Zhong Kui",
+		"img": "zhong_kui_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
+		"name": "Martichoras",
+		"img": "martichoras_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
+		"power type": "Physical"
+	}
+]
