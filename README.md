@@ -16,3 +16,7 @@ God info page
 
 
 MainActivity (Where the magic happens) is located in app/src/main/java/smite/smite_randomizer_3/
+
+Latest Update:
+  Maui, Martichoras and Surtr have been added to the randomizer.
+  All data is now scraped directly from smite.com/gods/ and code for the scraper has been committed.
