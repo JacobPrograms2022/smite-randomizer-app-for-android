@@ -5,8 +5,10 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
+import android.widget.Switch
 import android.widget.TextView
 import org.json.JSONArray
+import org.json.JSONObject
 import java.io.IOException
 import java.io.InputStream
 
@@ -41,10 +43,66 @@ class MainActivity : AppCompatActivity() {
 
             // button initiates random number generation
             randomizeButton.setOnClickListener()
-                { val rand = java.util.Random().nextInt(jsonArr.length())
+                {
+                    val warSwitch = findViewById<Switch>(R.id.warrior_switch)
+                    var randWarrior = warSwitch.isChecked
 
+                    val assSwitch = findViewById<Switch>(R.id.assassin_switch)
+                    var randAssassin = assSwitch.isChecked
+
+                    val magSwitch = findViewById<Switch>(R.id.mage_switch)
+                    var randMage = magSwitch.isChecked
+
+                    val guaSwitch = findViewById<Switch>(R.id.guradian_switch)
+                    var randGuardian = guaSwitch.isChecked
+
+                    val hunSwitch = findViewById<Switch>(R.id.hunter_switch)
+                    var randHunter = hunSwitch.isChecked
+
+                    val allSwitch = findViewById<Switch>(R.id.all_switch)
+                    var randAll = allSwitch.isChecked
+
+                    allSwitch.setOnCheckedChangeListener { _, isChecked ->
+                        if(isChecked){
+                            warSwitch.isChecked = true
+                            assSwitch.isChecked = true
+                            magSwitch.isChecked = true
+                            guaSwitch.isChecked = true
+                            hunSwitch.isChecked = true
+                        }
+                        else{
+                            warSwitch.isChecked = true
+                            assSwitch.isChecked = false
+                            magSwitch.isChecked = false
+                            guaSwitch.isChecked = false
+                            hunSwitch.isChecked = false
+                        }
+                        }
+
+                    var filtJson = mutableListOf<JSONObject>()
+                    for(i in 0 until jsonArr.length()) {
+                        var godData = jsonArr.getJSONObject(i)
+                        var classGod = godData.getString("class")
+                        with(classGod) {
+                            when {
+                                // loops through JSON and finds data matching arguments
+                                contains("Warrior") and randWarrior -> filtJson.add(godData)
+                                contains("Assassin") and randAssassin -> filtJson.add(godData)
+                                contains("Mage") and randMage -> filtJson.add(godData)
+                                contains("Guardian") and randGuardian -> filtJson.add(godData)
+                                contains("Hunter") and randHunter -> filtJson.add(godData)
+                                else -> {
+                                    // this seems to stop the error :P
+                                }
+
+                            }
+                        }
+                    }
+
+                    var randNum = java.util.Random().nextInt(filtJson.size)
+                    // above needs editing for custom random searches ie; class, damage type etc.
                     // empty arrays
-                    val jsonObj = jsonArr.getJSONObject(rand)
+                    val jsonObj = filtJson[randNum]
                     val godName = arrayListOf<String>()
                     val godRole = arrayListOf<String>()
                     val godDamage = arrayListOf<String>()

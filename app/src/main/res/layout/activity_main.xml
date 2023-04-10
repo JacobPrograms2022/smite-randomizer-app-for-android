@@ -6,6 +6,68 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <Switch
+        android:id="@+id/all_switch"
+        android:layout_width="136dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="4dp"
+        android:text="All"
+        android:checked="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.185"
+        app:layout_constraintStart_toEndOf="@+id/mage_switch"
+        app:layout_constraintTop_toBottomOf="@+id/hunter_switch"
+        tools:textSize="20dp" />
+
+    <Switch
+        android:id="@+id/mage_switch"
+        android:layout_width="136dp"
+        android:layout_height="45dp"
+        android:text="Mage"
+        android:checked="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.152"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/assassin_switch"
+        tools:textSize="20dp" />
+
+    <Switch
+        android:id="@+id/hunter_switch"
+        android:layout_width="136dp"
+        android:layout_height="45dp"
+        android:text="Hunter"
+        android:checked="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.186"
+        app:layout_constraintStart_toEndOf="@+id/assassin_switch"
+        app:layout_constraintTop_toBottomOf="@+id/guradian_switch"
+        tools:textSize="20dp" />
+
+    <Switch
+        android:id="@+id/guradian_switch"
+        android:layout_width="136dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="20dp"
+        android:text="Guardian"
+        android:checked="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.179"
+        app:layout_constraintStart_toEndOf="@+id/warrior_switch"
+        app:layout_constraintTop_toBottomOf="@+id/god_name"
+        tools:textSize="20dp" />
+
+    <Switch
+        android:id="@+id/assassin_switch"
+        android:layout_width="136dp"
+        android:layout_height="45dp"
+        android:text="Assassin"
+        android:checked="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.152"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/warrior_switch"
+        tools:textSize="20dp" />
+
     <TextView
         android:id="@+id/god_name"
         android:layout_width="229dp"
@@ -46,5 +108,18 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/god_image"
         app:layout_constraintVertical_bias="0.838" />
+
+    <Switch
+        android:id="@+id/warrior_switch"
+        android:layout_width="136dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="20dp"
+        android:text="Warrior"
+        android:checked="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.154"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/god_name"
+        tools:textSize="20dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
