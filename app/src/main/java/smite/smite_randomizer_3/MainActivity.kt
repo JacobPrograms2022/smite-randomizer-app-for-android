@@ -70,14 +70,66 @@ class MainActivity : AppCompatActivity() {
                             guaSwitch.isChecked = true
                             hunSwitch.isChecked = true
                         }
-                        else{
-                            warSwitch.isChecked = true
-                            assSwitch.isChecked = false
-                            magSwitch.isChecked = false
-                            guaSwitch.isChecked = false
-                            hunSwitch.isChecked = false
+                    }
+                    warSwitch.setOnCheckedChangeListener { _, isChecked ->
+                        if (!(isChecked)) {
+                            allSwitch.isChecked = false
                         }
+                        if (!(warSwitch.isChecked) and !(assSwitch.isChecked) and
+                            !(magSwitch.isChecked) and !(guaSwitch.isChecked) and
+                            !(hunSwitch.isChecked)
+                        ) {
+                            allSwitch.isChecked = true
                         }
+                    }
+
+                    assSwitch.setOnCheckedChangeListener {_, isChecked ->
+                    if (!(isChecked)) {
+                            allSwitch.isChecked = false
+                        }
+                        if (!(warSwitch.isChecked) and !(assSwitch.isChecked) and
+                            !(magSwitch.isChecked) and !(guaSwitch.isChecked) and
+                            !(hunSwitch.isChecked)
+                        ) {
+                            allSwitch.isChecked = true
+                        }
+                    }
+
+                    magSwitch.setOnCheckedChangeListener {_, isChecked ->
+                    if (!(isChecked)) {
+                            allSwitch.isChecked = false
+                        }
+                        if (!(warSwitch.isChecked) and !(assSwitch.isChecked) and
+                            !(magSwitch.isChecked) and !(guaSwitch.isChecked) and
+                            !(hunSwitch.isChecked)
+                        ) {
+                            allSwitch.isChecked = true
+                        }
+                    }
+
+                    guaSwitch.setOnCheckedChangeListener {_, isChecked ->
+                    if (!(isChecked)) {
+                            allSwitch.isChecked = false
+                        }
+                        if (!(warSwitch.isChecked) and !(assSwitch.isChecked) and
+                            !(magSwitch.isChecked) and !(guaSwitch.isChecked) and
+                            !(hunSwitch.isChecked)
+                        ) {
+                            allSwitch.isChecked = true
+                        }
+                    }
+
+                    hunSwitch.setOnCheckedChangeListener {_, isChecked ->
+                    if (!(isChecked)) {
+                            allSwitch.isChecked = false
+                        }
+                        if (!(warSwitch.isChecked) and !(assSwitch.isChecked) and
+                            !(magSwitch.isChecked) and !(guaSwitch.isChecked) and
+                            !(hunSwitch.isChecked)
+                        ) {
+                            allSwitch.isChecked = true
+                        }
+                    }
 
                     var filtJson = mutableListOf<JSONObject>()
                     for(i in 0 until jsonArr.length()) {
