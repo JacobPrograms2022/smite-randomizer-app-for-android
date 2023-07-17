@@ -420,6 +420,13 @@
 		"power type": "Physical"
 	},
 	{
+		"name": "Ix Chel",
+		"img": "ix_chel_resized",
+		"class": "Mage",
+		"attack type": "Ranged",
+		"power type": "Magical"
+	},
+	{
 		"name": "Izanami",
 		"img": "izanami_resized",
 		"class": "Hunter",
@@ -501,6 +508,13 @@
 		"img": "loki_resized",
 		"class": "Assassin",
 		"attack type": "Melee",
+		"power type": "Physical"
+	},
+	{
+		"name": "Martichoras",
+		"img": "martichoras_resized",
+		"class": "Hunter",
+		"attack type": "Ranged",
 		"power type": "Physical"
 	},
 	{
@@ -868,10 +882,10 @@
 		"power type": "Magical"
 	},
 	{
-		"name": "Martichoras",
-		"img": "martichoras_resized",
-		"class": "Hunter",
+		"name": "Charon",
+		"img": "charon_resized",
+		"class": "Guardian",
 		"attack type": "Ranged",
-		"power type": "Physical"
+		"power type": "Magical"
 	}
 ]
